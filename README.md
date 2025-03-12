@@ -241,5 +241,5 @@ POST  /user/change-password
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](ShoppingCartApplication/screenshot/sp01.png)
 
