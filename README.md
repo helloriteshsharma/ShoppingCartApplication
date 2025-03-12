@@ -245,7 +245,7 @@ POST  /user/change-password
 
 ![App Screenshot](https://github.com/helloriteshsharma/ShoppingCartApplication/blob/main/screenshot/sp02.png)
 
-![App Screenshot](https://github.com/helloriteshsharma/ShoppingCartApplication/blob/main/screenshot/sp04.png)
+![App Screenshot](https://github.com/helloriteshsharma/ShoppingCartApplication/blob/main/screenshot/sp03.png)
 
 ![App Screenshot](https://github.com/helloriteshsharma/ShoppingCartApplication/blob/main/screenshot/sp04.png)
 
